@@ -1,0 +1,48 @@
+.logo-img {
+    width: 60%;
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.small-img {
+    width: 80% !important;
+}
+
+.small-img-container,
+.top-row {
+    display: inline-flex;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.line {
+    width: 100%;
+}
+
+.icon-header {
+    right: 10px;
+}
+
+.about-me {
+    text-align: center;
+}
+
+.insta-logo,.sloth-icon {
+    width: 8%;
+}
+
+.footer-box {
+    text-align: center;
+}
+
+a {
+    color: black;
+}
